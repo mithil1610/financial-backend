@@ -10,15 +10,6 @@ storage_service.py - AWS S3 integration with Parquet storage and partitioning
 ml_service.py - XGBoost & LSTM models for stock prediction
 api.py - FastAPI with comprehensive REST endpoints
 
-
-Three Comprehensive Documentation Files:
-
-README - Complete project documentation
-Full Application Code - Production-ready implementation
-API Usage Guide - Detailed examples with curl, Python, and Postman
-
-
-
 🏗️ Architecture Highlights
 Data Pipeline:
 
