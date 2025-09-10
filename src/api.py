@@ -51,6 +51,7 @@ try:
     redis_client = redis.from_url(settings.redis_url) if settings.redis_url else None
 except:
     redis_client = None
+# redis_client = None
 
 # API Key authentication
 api_key_header = APIKeyHeader(name="X-API-Key", auto_error=False)
